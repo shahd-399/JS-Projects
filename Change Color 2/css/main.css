@@ -1,0 +1,35 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #f2fed5;
+    font-family: "Montserrat", sans-serif;
+}
+div{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin: 25px 5px;
+}
+.div1{
+    background-color: orange;
+}
+.div2{
+    background-color: red;
+}
+.div3{
+    background-color: green;
+}
+.div4{
+    background-color: blue;
+}
+.mydiv{
+    width: 300px;
+    height: 300px;
+    border: 1px solid #ddd;
+    background-color: white;
+}
